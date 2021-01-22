@@ -2,7 +2,7 @@
 
 I'm a professional software executive, architect, and developer with a wide range of experience in web technologies, web services, security, infrastructure, 
 and support. I am comfortable working with clients, project managers, other executives and developers. I specialize in team building and mentorship and 
-I'm good at explaining technical concepts to non-technical stakeholdoers.  I'm current the Chief Technology Officer at [National Write Your Congressman](https://nwyc.com/) and [Constituent Voice](https://cvoice.io)
+I'm good at explaining technical concepts to non-technical stakeholdoers.  I'm currently the Chief Technology Officer at [National Write Your Congressman](https://nwyc.com/) and [Constituent Voice](https://constituentvoice.com)
 
 ## Skills
 
