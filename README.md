@@ -26,9 +26,11 @@ I'm good at explaining technical concepts to non-technical stakeholdoers.  I'm c
 
 ## Contact
 
-If you're interested in talking to me about consulting, speaking or anything else I'd love to chat with you: chris -at- cfreak.dev
-[LinkedIN](https://linkedin.com/in/chrisbrownnwyc)
-[BlueSky](https://bsky.app/profile/cfreak.dev)
+If you're interested in talking to me about consulting, speaking or anything else I'd love to chat with you: 
+
+- EMAIL: chris -at- cfreak.dev
+- [LinkedIN](https://linkedin.com/in/chrisbrownnwyc)
+- [BlueSky](https://bsky.app/profile/cfreak.dev)
 
 
 <!--
